@@ -1,0 +1,2 @@
+No external libraries required.
+WiFi.h and WebServer.h are provided by the ESP32 Arduino core.
